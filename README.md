@@ -41,7 +41,32 @@ Register Page for admins,owners,users:
 ![Add Store](projectimages/addstore.jpg)
 
 Admin dashboard:
-![Admin Dashboard](projectimages/admindashboard.jpg)
+
+![Admin Dashboard](projectimages/admin%20dashboard.jpg)
+
+list of stores in Admin Dashboard:
+
+![Stores in Admin Dashboard](projectimages/stores%20in%20admin%20dashboard.jpg)
+
+Store registration through Admin:
+
+![Add Store](projectimages/addstore.jpg)
+
+User Dashboard:
+
+![User Dashboard](projectimages/userdashboard.jpg)
+
+
+Store Owner Dashboard:
+
+![Store Owner Dashboard](projectimages/store%20owner%20dashboard.jpg)
+
+
+Update Password for users and store owners:
+
+![Update Password](projectimages/update%20password.jpg)
+
+
 
 
 
