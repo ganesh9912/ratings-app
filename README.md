@@ -38,3 +38,10 @@ Login Page for all admins,owners,users:
 
 Register Page for admins,owners,users:
 
+![Add Store](projectimages/addstore.jpg)
+
+Admin dashboard:
+![Admin Dashboard](projectimages/admindashboard.jpg)
+
+
+
