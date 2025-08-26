@@ -1,5 +1,7 @@
 Frontend:
 
+![Frontend Screenshot](https://github.com/ganesh9912/ratings-app/blob/d1b9a90455100181ca8cd1014888a2382da5d0ab/projectimages/frontend.jpg?raw=true)
+
 
 - `public/` : Static files like HTML, icons.
 - `src/pages/` : React page components (Login, Dashboard, User/Admin dashboards, Add Store, User Registration)
